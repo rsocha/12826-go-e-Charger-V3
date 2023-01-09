@@ -4,6 +4,6 @@ Baustein für den Gira Homeserver zur Kommunikation einer [go-e](https://go-e.co
 ## Eingänge
 
 
-| Nr. | Name | Initialisierung | Beschreibung |
+| Nr. | Name | Init | Type | Beschreibung |
 | --- | --- | --- | --- |
 | 1 | IP | | IP go-e Wallbox |
