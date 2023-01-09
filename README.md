@@ -4,6 +4,8 @@ Baustein für den Gira Homeserver zur Kommunikation einer [go-e](https://go-e.co
 ## Eingänge
 
 
-| Nr. | Name | Init | Type | Beschreibung |
-| --- | --- | --- | --- |
-| 1 | IP | | IP go-e Wallbox |
+| Nr. | Name | Init | Beschreibung |
+|-----:|---------------| ---- | --- |
+| 1 | E1 IP go-e Charger |  | IP Adresse der go-e Wallbox |
+| 2 | E2 Port go-e Charger | 80 | Port der go-e Wallbox |
+| 3 | E3 Trigger | 0 | Trigger zum Abfragen der Wallbox |
