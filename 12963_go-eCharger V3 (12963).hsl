@@ -1,0 +1,87 @@
+### ! This file was generated automatically and must not be changed manually. ! ###"
+5000|"r.socha\go-eCharger V3 (12963)"|0|14|"IP go-e Charger"|"Port go-e Charger"|"Trigger"|"Abfrage Intervall in s"|"[amp]  Ampere für PWM [6-32A]"|"[psm]  Phasenumschaltung (1)=1Pha / (2)=3Pha"|"[frc] Charging Stopp (1) / Start (2)"|"[dwo] Abschaltwert in kWh"|"[acs] Zugang nur über RFID/App möglich (0/1)"|"[lse] LED Stromsparmodus"|"[lbr] LED Helligkeit in %"|"[awp] awattarMaxPrice in ct"|"[awc] awattarMaxPrice in ctawattar country (Austria=0, Germany=1)"|"[awe] useAwattar"|62|"go-e erreichtbar"|"[typ] Devicetype"|"[fna] Devicename"|"[rbc] Reboot Counter"|"[rbt] Reboot Timer [s]"|"[car] Status PWM"|"[car] Status PWM Text"|"[err] Error"|"[cbl] Type2 Kabel A Kodierung"|"[adi] Adapter In"|"[frc] Charging Stopp/Start (1/2)"|"[tma] Temperatur"|"[psm] Phasen"|"[acs] Zugangskontrolle,0=Offen,1=RFID/App nötig"|"[alw] Allow Charging"|"[wh] Geladene Energiemenge [Wh]"|"[eto] Energy Total [kWh]"|"[dwo] Abschaltwert [kWh]"|"[nrg[0]] Spannung auf L1 (V)"|"[nrg[1]] Spannung auf L2 (V)"|"[nrg[2]] Spannung auf L3 (V)"|"[nrg[3]] Spannung auf N (V)"|"[nrg[4]] Strom über L1 (0.1A)"|"[nrg[5]] Strom über L2 (0.1A)"|"[nrg[6]] Strom über L3 (0.1A)"|"[nrg[7]] Leistung über L1 (0.1kW)"|"[nrg[8]] Leistung über L2 (0.1kW)"|"[nrg[9]] Leistung über L3 (0.1kW)"|"[nrg[10]] Leistung über N (0.1kW)"|"[nrg[11]] Leistung gesamt (0.01kW)"|"[nrg[12]] Leistungsfaktor auf L1 (%)"|"[nrg[13]] Leistungsfaktor auf L2 (%)"|"[nrg[14]] Leistungsfaktor auf L3 (%)"|"[nrg[15]] Leistungsfaktor auf N (%)"|"[card[0]] RFID Karte 0 Name"|"[card[0]] Energiemenge RFID 0 (kWh)"|"[card[1]] RFID Karte 1 Name"|"[card[1]] Energiemenge RFID 1 (kWh)"|"[card[2]] RFID Karte 2 Name"|"[card[2]] Energiemenge RFID 2 (kWh)"|"[card[3]] RFID Karte 3 Name"|"[card[3]] Energiemenge RFID 3 (kWh)"|"[card[4]] RFID Karte 4 Name"|"[card[4]] Energiemenge RFID 4 (kWh)"|"[ama] Vorgabe max. Ampere"|"[amp] Ampere für PWM Signalisierung"|"[ccw[ssid]] WLAN SSID"|"[wsms] Wifi State"|"[wsms] Wifi State Text"|"[fwv] Firmware Version"|"[sse] Seriennummer"|"[lbr] LED Helligkeit [%]"|"[cid] Farbwert Standby"|"[cwc] Farbwert Wait Car"|"[cch] Farbwert Ladevorgang"|"[cfi] Farbwert Ladevorgang Ende"|"[ust] Unlock State"|"[awp] awattarMaxPrice in ct"|"[awcp[marketprice]] awattar current price"|"[awe] useAwattar"|"[awc] awattar country (Austria=0, Germany=1)"|"[dll] Export Link"|"0.1"
+5001|14|62|0|2|1
+5002|1|""|1
+5002|2|80|0
+5002|3|0|0
+5002|4|0|0
+5002|5|0|0
+5002|6|0|0
+5002|7|0|0
+5002|8|0|0
+5002|9|0|0
+5002|10|0|0
+5002|11|0|0
+5002|12|0|0
+5002|13|0|0
+5002|14|0|0
+5003|1|0|0
+5003|2|0|1
+5004|1|0|0|1|0
+5004|2|""|0|1|1
+5004|3|""|0|1|1
+5004|4|0|0|1|0
+5004|5|0|0|1|0
+5004|6|0|0|1|0
+5004|7|"0"|0|1|1
+5004|8|0|0|1|0
+5004|9|0|0|1|0
+5004|10|0|0|1|0
+5004|11|0|0|1|0
+5004|12|0|0|1|0
+5004|13|0|0|1|0
+5004|14|0|0|1|0
+5004|15|0|0|1|0
+5004|16|0|0|1|0
+5004|17|0|0|1|0
+5004|18|0|0|1|0
+5004|19|0|0|1|0
+5004|20|0|0|1|0
+5004|21|0|0|1|0
+5004|22|0|0|1|0
+5004|23|0|0|1|0
+5004|24|0|0|1|0
+5004|25|0|0|1|0
+5004|26|0|0|1|0
+5004|27|0|0|1|0
+5004|28|0|0|1|0
+5004|29|0|0|1|0
+5004|30|0|0|1|0
+5004|31|0|0|1|0
+5004|32|0|0|1|0
+5004|33|0|0|1|0
+5004|34|0|0|1|0
+5004|35|""|0|1|1
+5004|36|0|0|1|0
+5004|37|""|0|1|1
+5004|38|0|0|1|0
+5004|39|""|0|1|1
+5004|40|0|0|1|0
+5004|41|""|0|1|1
+5004|42|0|0|1|0
+5004|43|""|0|1|1
+5004|44|0|0|1|0
+5004|45|0|0|1|0
+5004|46|0|0|1|0
+5004|47|""|0|1|1
+5004|48|0|0|1|0
+5004|49|"0"|0|1|1
+5004|50|""|0|1|1
+5004|51|""|0|1|1
+5004|52|0|0|1|0
+5004|53|"0"|0|1|1
+5004|54|"0"|0|1|1
+5004|55|"0"|0|1|1
+5004|56|"0"|0|1|1
+5004|57|0|0|1|0
+5004|58|0|0|1|0
+5004|59|0|0|1|0
+5004|60|0|0|1|0
+5004|61|0|0|1|0
+5004|62|""|0|1|1
+5012|0|"True"|"eval(compile(__import__('zlib').decompress(__import__('base64').b64decode('eJzLTFPIyy9RyEgsTiwpKdIoTs1J0/N11lFQ8gj2MTJwDolQ0rTiUgACqIweTFzBVqG6liszTUEpozjHyCDeOD49Pz7VOSOxKD21yB3BDDOONzSyNIOSSmDbMvMwjMNuSTRphseCHKXk66xkBTOplotSI6OVCjxLUnPBZoNZVDDR1Q9snKsfNcxyhpjlTAWzgiHuCqaGu4Ih7gqmhrscIe5ypIa7HCHucnQGAAHM5h4=')),'<Go_eChargerV3_12963_12963>', 'exec'))"|""|0|0|0|0
+5012|0|"EI"|"eval(compile(__import__('zlib').decompress(__import__('base64').b64decode('eJydUk1vgzAMvfMrrEhIoK3QLyFtUk+Ttn+ww6YJBXBKNCBRHI12v36BdIVtvaw+JHmJ/fxsR7ZaGQsFJ8y2gfToU2ohG/yGioKamvUy95hgB69vgaKEjmSxjZhpYWEEpLbVqffc5HuV40PNzR7N03R83uSr9V12Wlk8Z2nfK2lgoa/i8dLysrNO3TIQysBcM8juB6b7AJyJznmzf+dLuSlr+YFhlbhWMQhhSj/yWnP0CQabSbvZwep830tbg9LYRaK7BdYXLAZOIKopdNRYJb2RFiM/o6TIthWWqsJoXlAcn4OcpHwYnyvtNMjkRepHt4+J/jomeLCGl5Y3TXRFM9gFxrJRhJF/wEOJ2k5FaU40gl8/SEBIQy9FF38B5a7L6g==')),'<Go_eChargerV3_12963_12963>', 'exec'))"|""|0|0|0|0
+5012|1|"EI"|"eval(compile(__import__('zlib').decompress(__import__('base64').b64decode('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')),'<Go_eChargerV3_12963_12963>', 'exec'), pItem.MC.HSL20CTX['hsl20_3_go_eChargerGo_eChargerV3_12963_12963'])"|""|0|0|0|0
+5012|0|"True in EC"|"eval('SN[1]._hslfw_check_input_values(EC,EN)', pItem.MC.HSL20CTX['hsl20_3_go_eChargerGo_eChargerV3_12963_12963'])"|""|0|0|0|0
+5012|1|"(True in EC) and (time.time()-SN[1]._last_timer_ts<2)"|""|""|0|0|0|0
+5012|0|"eval('SN[1]._hslfw_check_output_values(SC,SN,AC,AN)', pItem.MC.HSL20CTX['hsl20_3_go_eChargerGo_eChargerV3_12963_12963'])"|"0"|""|0|0|2|0
